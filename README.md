@@ -2,7 +2,7 @@
 ### 📚 개인공부
 
 ### BackEnd
-- Java
+- [Java](https://github.com/jungmin9911/Study/blob/master/Java/README.md)
 - Python
 - C
 
