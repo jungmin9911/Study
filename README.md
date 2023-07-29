@@ -3,7 +3,7 @@
 
 ### BackEnd
 - [Java](https://github.com/jungmin9911/Study/tree/main/Java)
-- Python
+- [Python](https://github.com/jungmin9911/Study/tree/main/Python)
 - C
 
 ### FrontEnd
