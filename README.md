@@ -12,5 +12,5 @@
 - JavaScript
   
 ### SQL
-- PL/SQL
+- [PL/SQL](https://github.com/jungmin9911/Study/tree/main/PLSQL)
   
